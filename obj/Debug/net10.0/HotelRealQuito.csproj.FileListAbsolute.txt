@@ -1,0 +1,14 @@
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\bin\Debug\net10.0\HotelRealQuito.exe
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\bin\Debug\net10.0\HotelRealQuito.deps.json
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\bin\Debug\net10.0\HotelRealQuito.runtimeconfig.json
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\bin\Debug\net10.0\HotelRealQuito.dll
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\bin\Debug\net10.0\HotelRealQuito.pdb
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\HotelRealQuito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\HotelRealQuito.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\HotelRealQuito.AssemblyInfo.cs
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\HotelRealQuito.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\HotelRealQuito.dll
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\refint\HotelRealQuito.dll
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\HotelRealQuito.pdb
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\HotelRealQuito.genruntimeconfig.cache
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\ref\HotelRealQuito.dll
