@@ -12,3 +12,4 @@ C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\refint\Hote
 C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\HotelRealQuito.pdb
 C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\HotelRealQuito.genruntimeconfig.cache
 C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\ref\HotelRealQuito.dll
+C:\Users\User\Documents\ProyectsNAC\HotelRealQuito\obj\Debug\net10.0\HotelRealQuito.sourcelink.json
